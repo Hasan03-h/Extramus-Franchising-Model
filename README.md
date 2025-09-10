@@ -1,4 +1,5 @@
 📌 Extramus – Franchise & Partnership Project
+
 📝 Project Description
 
 This project explored the financial and strategic feasibility of expanding Extramus, a nonprofit internship mobility organization in Italy.
