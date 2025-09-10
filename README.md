@@ -1,41 +1,62 @@
-# Franchise Feasibility Analysis  
+📌 Extramus – Franchise & Partnership Project
+📝 Project Description
 
-## 📌 Project Overview
-This project evaluates the feasibility of establishing a franchise system for student-company placement.  
-The main objective is to determine the potential profitability and sustainability of such a model, both from the perspective of the franchisee and the franchisor.
+This project explored the financial and strategic feasibility of expanding Extramus, a nonprofit internship mobility organization in Italy.
 
-## 🎯 Objectives
-- Estimate the potential earnings per student for the company.  
-- Calculate the costs and revenues associated with running the franchise.  
-- Assess the break-even point and profitability.  
-- Provide recommendations for pricing and fee structures.  
+Originally designed as a franchising model, the project later pivoted into a partnership model, where Extramus acts as a middleman between companies seeking interns and students seeking internships.
 
-## 📊 Methodology
-1. **Data Collection**  
-   - Estimated student intake per year.  
-   - Company profit per student placement.  
-   - Fixed and variable operating costs.  
+My role as Finance Intern focused on building financial models, KPIs, and scenario analyses to test the sustainability of both approaches.
 
-2. **Financial Analysis**  
-   - Revenue projections.  
-   - Cost structure evaluation.  
-   - Break-even analysis.  
-   - Sensitivity analysis for different scenarios.  
+🎯 My Contributions
 
-3. **Strategic Assessment**  
-   - Risks and opportunities.  
-   - Market outlook.  
-   - Potential challenges for franchise adoption.  
+Financial Modeling
 
-## 📑 Files in this Repository
-- 'Extramus franchise model business plan.pdf' 
-- `README.md` → Project description.  
+Designed income statements for both franchisor and franchisee.
 
+Conducted break-even analysis (estimated 8 interns needed to cover costs).
 
+Built scenario analysis (Best–Moderate–Worst cases).
 
-## ✅ Conclusion
-The analysis suggests that the franchise system is feasible if companies achieve a steady inflow of students and cost control mechanisms are maintained.  
-Further steps include pilot testing and negotiation of franchise fees.  
+KPI Development & Visualization
 
----
+Created 3 KPI sets: Operational, Financial, and Impact.
 
+Visualized results using Tableau dashboards.
+
+Pricing & Revenue Strategy
+
+Developed student pricing models by sector (IT, Marketing, HR).
+
+Estimated company productivity value per intern and designed fee-sharing scenarios (10%, 15%, 20%).
+
+Partnership Model
+
+After supervisor feedback, adapted financial models for a middleman service model.
+
+Designed a step-by-step business proposal (website services, internship placement, social projects).
+
+Prepared scenario analysis for revenue streams from partnerships.
+
+Research & Benchmarking
+
+Analyzed AIESEC and ESN as benchmark social franchise models.
+
+Presented insights on differences and similarities with Extramus.
+
+📊 Key Skills Developed
+
+Financial Modeling & Break-even Analysis
+
+Budgeting & Forecasting
+
+Data Visualization (Tableau, Excel)
+
+KPI Development
+
+Scenario & Pricing Analysis
+
+Market Research
+
+Strategic Thinking & Adaptability
+
+Cross-cultural Teamwork
