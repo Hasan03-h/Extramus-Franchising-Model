@@ -1,63 +1,78 @@
 📌 Extramus – Franchise & Partnership Project
-
 📝 Project Description
 
-This project explored the financial and strategic feasibility of expanding Extramus, a nonprofit internship mobility organization in Italy.
+This project explored the feasibility of scaling Extramus, a nonprofit internship mobility organization in Italy.
 
-Originally designed as a franchising model, the project later pivoted into a partnership model, where Extramus acts as a middleman between companies seeking interns and students seeking internships.
+At first, the goal was to design a franchising model to replicate the Extramus concept in other Italian towns. Later, due to financial constraints (no EU funding, limited revenue sources), the project pivoted into a partnership model, positioning Extramus as a middleman between companies seeking interns and students looking for internship opportunities.
 
-My role as Finance Intern focused on building financial models, KPIs, and scenario analyses to test the sustainability of both approaches.
+My role as Finance Intern was to provide the financial backbone of the project: revenue–expense models, KPIs, and scenario analyses that could guide strategic decisions.
 
 🎯 My Contributions
 
 Financial Modeling
 
-Designed income statements for both franchisor and franchisee.
+Built two income statements (franchisor & franchisee perspective).
 
-Conducted break-even analysis (estimated 8 interns needed to cover costs).
+Conducted break-even analysis, estimating that 8 interns would cover operational costs.
 
-Built scenario analysis (Best–Moderate–Worst cases).
+Designed scenario analyses (Best–Moderate–Worst cases).
 
 KPI Development & Visualization
 
-Created 3 KPI sets: Operational, Financial, and Impact.
+Created Operational, Financial, and Impact KPIs tailored to nonprofit context.
 
-Visualized results using Tableau dashboards.
+Visualized KPIs in Tableau dashboards for easier tracking.
 
 Pricing & Revenue Strategy
 
-Developed student pricing models by sector (IT, Marketing, HR).
+Designed student pricing models by sector (IT, Marketing, HR).
 
-Estimated company productivity value per intern and designed fee-sharing scenarios (10%, 15%, 20%).
+Estimated productivity value per intern and built fee-sharing scenarios (10%, 15%, 20%).
 
 Partnership Model
 
-After supervisor feedback, adapted financial models for a middleman service model.
+Adapted financial models for a service-based approach where Extramus charges companies for successful intern placements.
 
-Designed a step-by-step business proposal (website services, internship placement, social projects).
+Drafted a business proposal including three services:
 
-Prepared scenario analysis for revenue streams from partnerships.
+Website creation for SMEs without online presence,
+
+Internship placement service,
+
+Collaboration on visionary nonprofit projects (leveraging Google for Nonprofits).
 
 Research & Benchmarking
 
-Analyzed AIESEC and ESN as benchmark social franchise models.
+Analyzed AIESEC and ESN as social franchise case studies.
 
-Presented insights on differences and similarities with Extramus.
+Identified similarities, differences, and lessons for Extramus.
 
 📊 Key Skills Developed
 
-Financial Modeling & Break-even Analysis
+Hard Skills: Financial Modeling, Scenario Analysis, KPI Development, Budgeting, Pricing Strategy, Data Visualization (Excel, Tableau).
 
-Budgeting & Forecasting
+Soft Skills: Strategic Thinking, Problem-Solving, Adaptability, Cross-Cultural Teamwork, Professional Communication.
 
-Data Visualization (Tableau, Excel)
+✅ Outcomes
 
-KPI Development
+Determined that a franchising model is not financially feasible in the short term without external funding (e.g., EU grants).
 
-Scenario & Pricing Analysis
+Produced a scalable partnership model where Extramus monetizes its role as an intermediary between companies and interns.
 
-Market Research
+Delivered financial templates, scenario analyses, and KPIs that can be reused for future franchise or partnership opportunities.
 
-Strategic Thinking & Adaptability
+Contributed to the Extramus Partnership Program proposal, providing a clear financial perspective to complement strategic and operational inputs.
 
-Cross-cultural Teamwork
+🔎 Conclusion
+
+This project showed that nonprofits need flexible, sustainable models to expand. While franchising appeared attractive at first, the financial reality made it impractical. By pivoting to a partnership strategy, Extramus can:
+
+Leverage its strong supply of interns,
+
+Generate revenue with minimal cost,
+
+Build trust with companies through added-value services,
+
+Keep the door open for future franchising once financial stability and external funding are secured.
+
+For me, the internship was a hands-on lesson in how financial modeling directly informs strategic decisions. I learned to balance optimism with realism, adapt quickly to new directions, and communicate financial insights in a way that supports leadership decisions.
