@@ -23,6 +23,8 @@ Created Operational, Financial, and Impact KPIs tailored to nonprofit context.
 
 Visualized KPIs in Tableau dashboards for easier tracking.
 
+![Alt text](images/Tableau_FinancialKPI.png)
+
 Pricing & Revenue Strategy
 
 Designed student pricing models by sector (IT, Marketing, HR).
