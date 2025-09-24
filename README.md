@@ -25,6 +25,7 @@ Visualized KPIs in Tableau dashboards for easier tracking.
 
 ![Alt text](Tableau_FinancialKPI.png)
 ![Alt text](Tableau_ImpactKPI.png)
+![Alt text](Tableau_OperationalKPI.png)
 
 Pricing & Revenue Strategy
 
