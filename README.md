@@ -24,6 +24,7 @@ Created Operational, Financial, and Impact KPIs tailored to nonprofit context.
 Visualized KPIs in Tableau dashboards for easier tracking.
 
 ![Alt text](Tableau_FinancialKPI.png)
+![Alt text](Tableau_ImpactKPI.png)
 
 Pricing & Revenue Strategy
 
