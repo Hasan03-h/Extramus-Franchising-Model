@@ -48,10 +48,12 @@ Adapted financial models for a service-based approach where Extramus charges com
 Drafted a business proposal including three services:
 
 Website creation for SMEs without online presence,
-
+![Alt text](ServicesForPartnership)
 Internship placement service,
-
+![Alt text](InternshipPlacement)
+<p></p>
 Collaboration on visionary nonprofit projects (leveraging Google for Nonprofits).
+
 
 Research & Benchmarking
 
