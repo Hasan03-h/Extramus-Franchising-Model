@@ -24,6 +24,7 @@ Designed scenario analyses (Best–Moderate–Worst cases).
 KPI Development & Visualization
 
 Created Operational, Financial, and Impact KPIs tailored to nonprofit context.
+![Alt text](KPIsNonProfit)
 
 Visualized KPIs in Tableau dashboards for easier tracking.
 
