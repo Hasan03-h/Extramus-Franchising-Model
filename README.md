@@ -17,6 +17,7 @@ Built two income statements (franchisor & franchisee perspective).
 ![Alt text](IS-franchisee)
 
 Conducted break-even analysis, estimating that 8 interns would cover operational costs.
+![Alt text](BreakEvenAnalysis)
 
 Designed scenario analyses (Best–Moderate–Worst cases).
 
