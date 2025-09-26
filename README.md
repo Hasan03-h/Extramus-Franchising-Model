@@ -13,6 +13,8 @@ My role as Finance Intern was to provide the financial backbone of the project: 
 Financial Modeling
 
 Built two income statements (franchisor & franchisee perspective).
+![Alt text](IS-franchisor)
+![Alt text](IS-franchisee)
 
 Conducted break-even analysis, estimating that 8 interns would cover operational costs.
 
