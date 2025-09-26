@@ -35,6 +35,9 @@ Visualized KPIs in Tableau dashboards for easier tracking.
 Pricing & Revenue Strategy
 
 Designed student pricing models by sector (IT, Marketing, HR).
+![Alt text](PricingModelWorst)
+![Alt text](PricingModelModerate)
+![Alt text](PricingModelBest)
 
 Estimated productivity value per intern and built fee-sharing scenarios (10%, 15%, 20%).
 
